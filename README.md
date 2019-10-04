@@ -2,7 +2,7 @@
 
 Setup Instructions:
 1. Follow instructions [here](https://help.github.com/en/articles/connecting-to-github-with-ssh) in order to generate SSH key and connect to the project.
-2. Copy the ssh link and use <git clone [ssh link]> to create a local repository.
+2. Copy the ssh link and use `git clone [ssh link]` to create a local repository.
 
 Git Work Process:
 1. First, use `git pull` to get the most up to date version of the code before making changes.
