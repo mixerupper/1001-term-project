@@ -1,4 +1,4 @@
-# 1001-term-project
+A# 1001-term-project
 
 Setup Instructions:
 1. Follow instructions [here](https://help.github.com/en/articles/connecting-to-github-with-ssh) in order to generate SSH key and connect to the project.
