@@ -2,7 +2,7 @@ def initialize_data_root(user):
 	if user == "AY":
 		return("C:/Users/Andrew/1001-term-project/data/")
 	if user == "AH":
-		return("/Users/Alec/Documents/DSGA_1001_Homework/DSGA_1001_Final_Project/1001-term-project/data/")
+		return("/Users/Alec/Documents/DSGA_1001_Homework/data/")
 	if user == "YZ":
 		return("")
 	else:
