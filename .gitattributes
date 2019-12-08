@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-*.csv filter=lfs diff=lfs merge=lfs -text
-=======
->>>>>>> add 2019q3 data
-*.txt filter=lfs diff=lfs merge=lfs -text
